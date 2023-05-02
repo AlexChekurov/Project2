@@ -32,6 +32,10 @@ https://user-images.githubusercontent.com/101993583/235656561-0dc223b3-1ea2-42c2
 
 https://user-images.githubusercontent.com/101993583/235657419-cffcc55f-9d29-410d-a330-9d9b755ca33c.mov
 
+Проверка просрочки книги:
+
+https://user-images.githubusercontent.com/101993583/235658393-5ae33f44-bd72-473e-8a86-dd249bafeb80.mov
+
 SQL код, который нужен для того, чтобы вручную назначить Timestamp:
 ```
 UPDATE Book SET taken_at='2021-05-07 08:00:00' WHERE id=1;
