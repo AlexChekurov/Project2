@@ -12,6 +12,10 @@
 ![Project2_TZ-08](https://user-images.githubusercontent.com/101993583/235651517-544bb063-014d-4673-b24b-37f1d8706015.png)
 ![Project2_TZ-09](https://user-images.githubusercontent.com/101993583/235651534-9ae3fff7-2012-4593-8615-b1f7ff1cad66.png)
 
+Задание было выполнено полностью в соотвествии с поставленными требованиями. Приложение запускается на Tomcat-10, разворачивается в контекстном пути http://localhost:8080/people
+
+Использованные технологии: Java 17 SE, Apache Maven, Apache Tomcat, PostgreSQL, Hibernate, Spring Core, Spring MVC, Spring Data, Thymeleaf, HTML, CSS.
+
 SQL код, который нужен для того, чтобы вручную назначить Timestamp:
 ```
 UPDATE Book SET taken_at='2021-05-07 08:00:00' WHERE id=1;
