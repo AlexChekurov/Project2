@@ -16,6 +16,14 @@
 
 Использованные технологии: Java 17 SE, Apache Maven, Apache Tomcat, PostgreSQL, Hibernate, Spring Core, Spring MVC, Spring Data, Thymeleaf, HTML, CSS.
 
+SQL код для создания таблиц находится в файле sql/project1_db.sql
+
+Пример работы:
+
+Пагинация:
+
+https://user-images.githubusercontent.com/101993583/235653626-d11d5f46-3d94-46f2-bf8e-fdaaa8278eff.mov
+
 SQL код, который нужен для того, чтобы вручную назначить Timestamp:
 ```
 UPDATE Book SET taken_at='2021-05-07 08:00:00' WHERE id=1;
